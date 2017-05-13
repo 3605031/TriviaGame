@@ -92,10 +92,9 @@ function resume(){
 
 		writeQuestion(++i);
 		time = 15;
-		
-		if(i<=6){
+		if(i<=5){
 			myVar = setInterval(timer,1000);
-		}
+		}	
 
 }
 
