@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/got.jpg");
+    -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	font-family: 'Rochester', cursive;   
+  	color: white;
+  	font-size: 48px;
+}
+
+.btn-primary {
+	position:relative;
+    top:50%; 
+    left:50%;
+}
